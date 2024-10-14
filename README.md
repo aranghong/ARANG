@@ -1,7 +1,7 @@
-<h1>👋 Hi there! I'm <strong>mobile app and web developer</strong> using Android. 🚀💖</h1>
+<p>👋 Hi there! I'm <strong>mobile app and web developer</strong> using Android. 🚀💖</p>
 <p>I hope to develop every beautiful thing. ✨</p>
 
-<h2>💪 Skills</h2>
+<h3>💪 Skills</h3>
 <h3>Platforms & Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h2>📞 Contact</h2>
+<h3>📞 Contact</h3>
 <p>
   <a href="mailto:arang2129@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
